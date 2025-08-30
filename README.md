@@ -29,7 +29,7 @@
 
 
 ## Docker compose file for sonarqube installation
-
+```
 version: "3"
 services:
   sonarqube:
@@ -62,3 +62,4 @@ volumes:
   sonarqube_logs:
   postgresql:
   postgresql_data:
+```
