@@ -2,7 +2,7 @@
 
 ### Requirements
   - EC2 instance(AMZ linux)
-  - install docker
+  - install docker & docker compose
   - java 17 install
   - jenkins install
   - plugins - Maven
@@ -63,3 +63,4 @@ volumes:
   postgresql:
   postgresql_data:
 ```
+
